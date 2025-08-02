@@ -1,0 +1,10 @@
+Common HTML Entity Codes:
+< (less than): &lt;
+> (greater than): &gt;
+& (ampersand): &amp;
+" (double quote): &quot;
+© (copyright symbol): &copy;
+® (registered trademark symbol): &reg;
+€ (euro sign): &euro;
+™ (trademark symbol): &trade;
+` ` (non-breaking space): &nbsp; 

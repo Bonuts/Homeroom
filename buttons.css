@@ -1,0 +1,160 @@
+<style>
+    .SUBSCRIBE{
+      background-color: rgb(226, 7, 7);
+      color: white;
+      border: none;
+      border-radius: 4px;
+      padding-left: 15px;
+      padding-right: 15px;
+      padding-top: 10px;
+      padding-bottom: 10px;
+      vertical-align: top;
+      font-size: 14spx;
+      cursor: pointer;
+      transition: 0.15s;
+      margin-right: 100px;
+      margin-left: 10px;
+    }
+  
+    .SUBSCRIBE:hover{
+      opacity: 0.7;
+      padding-left: 20px;
+      padding-right: 20px;
+      padding-top: 15px;
+      padding-bottom: 15px;
+      margin-right: 55px;
+      margin-left: 10px;
+      font-size: 19px;
+      box-shadow: 0 3px 10px rgba(0, 0, 0, 0.2);
+    }
+  
+    .SUBSCRIBE:active{
+      opacity: 0.5;
+     margin-top: 2px;
+     box-shadow: 0 0 0 rgba(0, 0, 0, 0.2);
+    }
+  
+    .JOIN{
+      background-color: white;
+      color: rgb(8, 109, 241);
+      border: rgb(8, 109, 241);
+      border-radius: 4px;
+      border-width: 1px;
+      padding-left: 15px;
+      padding-right: 15px;
+      padding-top: 9px;
+      padding-bottom: 9px;
+      vertical-align: top;
+      font-size: 14px;
+      border-style: solid;
+      cursor: pointer;
+      transition: 0.15s;
+      margin-left: 10px;
+    }
+  
+    .JOIN:hover{
+      background-color: rgb(8, 109, 241);
+      color: white;
+    }
+  
+    .JOIN:active{
+      opacity: 0.6;
+    }
+  
+    .tweet{
+      background-color: rgb(17, 120, 255);
+      color: white;
+      border: none;
+      border-radius: 19px;
+      padding-left: 15px;
+      padding-right: 15px;
+      padding-top: 10px;
+      padding-bottom: 10px;
+      vertical-align: top;
+      font-weight: bold;
+      font-size: 14px;
+      cursor: pointer;
+      margin-left: 8px;
+      transition: 0.15s;
+    }
+  
+    .tweet:hover{
+    box-shadow: 0 3px 10px rgba(0, 0, 0, 0.2);
+    }
+    .tweet:active{
+      padding-bottom: 10px;
+      padding-top: 10px;
+      margin-top: 3px;
+      box-shadow: 0 0 0 rgba(0, 0, 0, 0.2);
+    }
+  
+    .Joinmychannel{
+      background-color: white;
+      color: rgb(8, 109, 241);
+      border: rgb(8, 109, 241);
+      border-radius: 4px;
+      border-width: 1px;
+      width: 70px;
+      height: 38px;
+      font-size: 10px;
+      font-style: bold;
+      border-style: solid;
+      cursor: pointer;
+      transition: 0.15s;
+      padding-left: 15px;
+      padding-right: 15px;
+      padding-top: 1px;
+      padding-bottom: 1px;
+      vertical-align: top;
+    }
+  
+    .Joinmychannel:hover{
+      background-color: rgb(8, 109, 241);
+      color: white;
+    }
+  
+    .Joinmychannel:active{
+      opacity: 0.6;
+    }
+  
+    .btnback{
+      vertical-align: auto;
+      margin-bottom: 0px;
+      margin-top: 500px;
+      margin-left: 3px;
+      margin-right: 3px;
+    }
+  
+    .btnnext{
+      vertical-align: auto;
+      margin-bottom: 0px;
+      margin-top: 500px;
+      margin-left: 3px;
+      margin-right: 3px;
+    }
+  
+  .one{
+    vertical-align: auto;
+    margin-bottom: 0px;
+    margin-top: 500px;
+    margin-left: 3px;
+    margin-right: 3px;
+  }
+  
+  .two{
+    vertical-align: auto;
+    margin-bottom: 0px;
+    margin-top: 500px;
+    margin-left: 3px;
+    margin-right: 3px;
+  }
+  
+  .three{
+    vertical-align: auto;
+    margin-bottom: 0px;
+    margin-top: 500px;
+    margin-left: 3px;
+    margin-right: 3px;
+  }
+  
+  </style>
